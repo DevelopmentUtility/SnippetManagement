@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>myapicallfiles</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>        MyAPICall.sharedInstance.callWebServiceWith(viewController: &lt;#T##UIViewController#&gt;, params: &lt;#T##Mappable#&gt;, arrFiles: &lt;#T##[Any]?#&gt;, serviceCallFrom: &lt;#T##String#&gt;, headers: &lt;#T##[String : String]#&gt;, completionHandler: &lt;#T##HttpResponseHandler!##HttpResponseHandler!##(Any?) -&gt; Void#&gt;)
+
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3044E99F-ECCF-475F-9305-6A0FAA6D51C7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>MyAPICall with files and custom response</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>MyAPICall Files </string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

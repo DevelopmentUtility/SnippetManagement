@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>customapicallfiles</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>        CustomAPICall.sharedInstance.callWebServiceWith(viewController: &lt;#T##UIViewController#&gt;, params: &lt;#T##Mappable#&gt;, webserviceData: &lt;#T##[String : Any]#&gt;, arrFiles: &lt;#T##[Any]?#&gt;, serviceCallFrom: &lt;#T##String#&gt;, headers: &lt;#T##[String : String]#&gt;, completionHandler: &lt;#T##HttpResponseHandler!##HttpResponseHandler!##(Any?) -&gt; Void#&gt;)
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>67766866-C0C5-4248-B827-1D0D2C3DF988</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>APICall with files custom response and not in tool</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>CustomAPICall Files</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
